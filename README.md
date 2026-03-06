@@ -1,13 +1,28 @@
-# FALA RICARDO e FLORENCIO
 
-## KAKAKAKAAKKA
+# Processamento de Sinais I - Aula Prática 1
 
-![kes7Et](https://github.com/user-attachments/assets/363c443f-ae72-4852-a314-697336c11c49)
-![sonfys-shrek](https://github.com/user-attachments/assets/24500a8e-3ab8-4bbb-8d7b-ab55c48da520)
+Este repositório contém os materiais e recursos relacionados à Aula Prática 1 da disciplina de Processamento de Sinais I.
 
+## Conteúdo
 
-## Agora é sério
+O principal documento desta aula prática é:
 
-codigos estão no google collab
+* [`Processamento_de_Sinais_I___Aula_Prática_1.pdf`]: Este arquivo PDF contém [descreva o que o PDF contém, por exemplo: o roteiro da aula, os exercícios propostos, ou o material teórico abordado].
 
-https://colab.research.google.com/github/Pogeu/proc-sinais-2/blob/main/Untitled1.ipynb
+## Objetivos da Aula Prática
+
+[Descreva os objetivos de aprendizagem ou os tópicos principais abordados nesta aula prática.]
+
+### Exemplos:
+* Entender os conceitos fundamentais de [tópico 1].
+* Aplicar técnicas de [tópico 2] em [contexto].
+* Analisar e interpretar [tipo de dado/sinal].
+
+## Pré-requisitos
+
+Para aproveitar ao máximo esta aula prática, recomenda-se ter conhecimento em:
+
+* [Conceito/Ferramenta 1]
+* [Conceito/Ferramenta 2]
+* [Linguagem de Programação (se aplicável)]
+
